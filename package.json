@@ -1,9 +1,9 @@
 {
-  "name": "VisualStudio",
+  "name": "VisualStudio-3389",
   "theme": "syntax",
   "version": "0.1.3",
-  "description": "Atom version of the VisualStudio Theme from Sublime by Mihai Ciuraru. This package is no longer maintained and looking for a new owner. If you'd like to take over please let me know!",
-  "repository": "https://github.com/laktak/atom-vs-syntax",
+  "description": "Atom version of the VisualStudio Theme by espresso3389.",
+  "repository": "https://github.com/espresso3389/atom-vs-syntax-3389",
   "license": "MIT",
   "engines": {
     "atom": ">0.100.0"
